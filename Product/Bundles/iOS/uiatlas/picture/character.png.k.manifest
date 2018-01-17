@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3258968303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcf20ce11f0033f1062124bc7c77087c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/Picture/character.png
+Dependencies: []

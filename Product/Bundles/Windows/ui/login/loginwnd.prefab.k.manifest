@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 496588764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0eb9380fd5a6dc6fc2ac20a48663cc2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fad3cf1fff96a1057c588bd880b1ee4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c01f3f0b88b4448ab1ccfa117a1d57e, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7d95369345026045b1a0b92eb0f1f32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7f44389744e93c4286b0a7e3dfbddf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 938311ed4b5a34590af2bad889d53090, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edc5e7a8a5bcb4acf98d4521e8a88aca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 292ff9b23f4254401b22c45f17d2aec9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5848b7832d53944bdbdff853c73925a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99ce053ada75640e1a2f394ae8e0ad0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebb5c16dc8fb949f9afa1c6a26bd7716, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 132
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UI/Login/LoginWnd.prefab
+Dependencies: []

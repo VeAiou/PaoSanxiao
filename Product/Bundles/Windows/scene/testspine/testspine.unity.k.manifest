@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1095585372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0555664785b6f909c0721ee69a6ecdbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/BundleResources/Scene/TestSpine/TestSpine.unity
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1741189969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9d363442fdf5d778dc263fb034467ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e782ca1de0f815ca795a8dd7a3a9e5b
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/Anim1/Image.controller
+Dependencies: []

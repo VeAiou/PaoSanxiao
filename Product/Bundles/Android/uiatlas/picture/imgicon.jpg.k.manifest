@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3139468321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66b3a5218f1e3c8054742db670a98b17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/Picture/imgIcon.jpg
+Dependencies: []

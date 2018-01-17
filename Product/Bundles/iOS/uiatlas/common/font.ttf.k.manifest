@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2353131306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1be5632cb9500a0f27160f639079e81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40be49e8179e4038ba11213480d22dfe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/common/font.TTF
+Dependencies: []

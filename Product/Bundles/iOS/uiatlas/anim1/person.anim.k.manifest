@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1212304672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 536dfc28e8591b442ab808b3075ebde5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f83f8f92ace07d29cf518d0769d85c5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/Anim1/person.anim
+Dependencies: []

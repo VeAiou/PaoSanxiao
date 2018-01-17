@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 438385160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16e48d12189713a0cd5c006ed8bf2ff5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/common/imgGroupBlue.png
+Dependencies: []

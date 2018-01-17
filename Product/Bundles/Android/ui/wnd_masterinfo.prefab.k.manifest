@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1165769932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db195d1b076579a5ede922e039a923b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0954e855c57d9d3b2aa4f2f309f6e6e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 938311ed4b5a34590af2bad889d53090, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UI/WND_MasterInfo.prefab
+Dependencies:
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/skill-1.jpg.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/button/btnback.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/imgnumbox.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/picture/imgbackground.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/picture/imgicon.jpg.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/equip1.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/imgcaption.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/checkmark.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/msgboxgreen.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/toggle.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/imggroup.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/equipborder.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/expbackground.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/skillborder.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/exp.png.k
+- F:/UnityProject/SmartGame/BestSects-master/Product/Bundles/Android/uiatlas/common/font.ttf.k

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1693662591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e5d15388c3cee6bf8a8585c14057dc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleResources/UIAtlas/common/exp.png
+Dependencies: []

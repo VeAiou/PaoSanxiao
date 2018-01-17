@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1031599311
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/testscene/testscene.unity.k
+      Dependencies: {}
+    Info_1:
+      Name: scene/testspine/testspine.unity.k
+      Dependencies: {}
+    Info_2:
+      Name: ui/uiroot.prefab.k
+      Dependencies: {}
+    Info_3:
+      Name: prefabs/map/grid.prefab.k
+      Dependencies: {}
+    Info_4:
+      Name: ui/login/loginwnd.prefab.k
+      Dependencies: {}
+    Info_5:
+      Name: ui/level/levelwnd.prefab.k
+      Dependencies: {}
+    Info_6:
+      Name: ui/gameplay/gameplaywnd.prefab.k
+      Dependencies: {}
